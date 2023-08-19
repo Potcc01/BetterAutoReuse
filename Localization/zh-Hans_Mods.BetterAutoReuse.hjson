@@ -1,0 +1,16 @@
+Configs: {
+	BetterAutoReuseConfig: {
+		Headers.Config: 默认设置
+
+		AutoReuseValue: {
+			Label: 自动重复使用
+			Tooltip:
+				'''
+				会开启一切物品的自动重复使用(除[centeritem:113][centeritem:218][centeritem:495])
+				这将包括武器,炸药,生命水晶等等
+				'''
+		}
+
+		DisplayName: 模组配置
+	}
+}

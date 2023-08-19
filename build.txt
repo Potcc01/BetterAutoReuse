@@ -1,0 +1,9 @@
+displayName = 更好的自动重复使用
+author = Potcc
+version = 0.1
+homepage = https://github.com/Potcc01/BetterAutoReuse
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = OldArt\*, .git\*, .vs\*
+includePDB = true

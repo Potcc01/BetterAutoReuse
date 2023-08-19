@@ -1,0 +1,16 @@
+Configs: {
+	BetterAutoReuseConfig: {
+		Headers.Config: Default Config
+
+		AutoReuseValue: {
+			Label: AutoReuse
+			Tooltip:
+				'''
+				All items' AutoReuse is on now!(Without[centeritem:113][centeritem:218][centeritem:495])
+				This will include Weapons,Bombs,LifeCrystal and so on
+				'''
+		}
+
+		DisplayName: Mod Config
+	}
+}
